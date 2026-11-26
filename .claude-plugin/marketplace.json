@@ -1,0 +1,15 @@
+{
+  "name": "tia-automation-skills",
+  "description": "Free workflow automation skills for AI agents by Tech Info AI: n8n, Activepieces, Node-RED, Windmill and Huginn",
+  "owner": {
+    "name": "Tech Info AI",
+    "url": "https://techinfoai.net"
+  },
+  "plugins": [
+    {
+      "name": "tia-automation",
+      "source": "./plugins/tia-automation",
+      "description": "9 automation skills: pick the right tool, build n8n workflows, build flows in Activepieces, Node-RED, Windmill and Huginn, connect APIs and webhooks, add AI steps, schedule jobs, debug failed runs, self-host safely and ready-made business recipes. No API keys."
+    }
+  ]
+}
